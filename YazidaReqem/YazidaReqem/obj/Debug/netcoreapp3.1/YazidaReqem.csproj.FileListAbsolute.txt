@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.exe
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.deps.json
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.dll
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\bin\Debug\netcoreapp3.1\YazidaReqem.pdb
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.dll
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.pdb
+C:\Users\ASUS\Desktop\HomeTask4\YazidaReqem\YazidaReqem\obj\Debug\netcoreapp3.1\YazidaReqem.genruntimeconfig.cache

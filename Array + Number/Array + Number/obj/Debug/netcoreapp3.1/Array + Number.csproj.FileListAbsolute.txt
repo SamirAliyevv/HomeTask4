@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.exe
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.deps.json
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.dll
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\bin\Debug\netcoreapp3.1\Array + Number.pdb
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.dll
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.pdb
+C:\Users\ASUS\Desktop\HomeTask4\Array + Number\Array + Number\obj\Debug\netcoreapp3.1\Array + Number.genruntimeconfig.cache

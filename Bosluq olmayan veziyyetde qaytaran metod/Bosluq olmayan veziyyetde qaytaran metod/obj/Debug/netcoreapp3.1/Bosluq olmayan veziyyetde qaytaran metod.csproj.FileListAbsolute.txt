@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.exe
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.deps.json
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.runtimeconfig.json
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.dll
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\bin\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.pdb
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.dll
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.pdb
+C:\Users\ASUS\Desktop\HomeTask4\Bosluq olmayan veziyyetde qaytaran metod\Bosluq olmayan veziyyetde qaytaran metod\obj\Debug\netcoreapp3.1\Bosluq olmayan veziyyetde qaytaran metod.genruntimeconfig.cache
